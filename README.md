@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CARALACM
 - 👀 I’m interested in astronomy, science, computers and bicycles
-- 📫 How to reach me: luisalbertocolinmacias@gmail.com
+- 📫 How to reach me: luisalbertocolinmacias@proton.me
 
 <!---
 CARALACM/CARALACM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
